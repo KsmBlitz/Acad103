@@ -1,5 +1,9 @@
 # README
 
+Hermano tengo unas ganas de comerme un completo D:
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
